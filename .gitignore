@@ -1,0 +1,9 @@
+**/target/*
+**/.idea/*
+**/.settings/*
+**/nb-configuration.xml
+**/*.iml
+**/jacoco.exec
+**/*.versionsBackup
+**/node
+**/node_modules
